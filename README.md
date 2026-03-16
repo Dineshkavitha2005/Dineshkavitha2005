@@ -5,7 +5,6 @@
 - I'm currently learning new technologies
 - I'm looking to collaborate on open source projects
 - Ask me about anything tech-related
-- Fun fact: I love coding!
 - Explore my projects!
 
 ## Technologies & Tools
