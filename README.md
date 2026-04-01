@@ -4,7 +4,7 @@
 - I'm currently working on exciting projects
 - I'm currently learning new technologies
 - I'm looking to collaborate on open source projects
-- Ask me about anything tech-related
+- Ask me about anything tech-related !
 - Explore my projects!
 
 ## Technologies & Tools
