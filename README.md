@@ -1,5 +1,4 @@
 # Hi there! I'm Dinesh A
-
 ## About Me
 - I'm currently working on exciting projects
 - I'm currently learning new technologies
