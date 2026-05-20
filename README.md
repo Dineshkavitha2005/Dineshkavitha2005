@@ -5,7 +5,6 @@
 - I'm looking to collaborate on open source projects
 - Ask me about anything tech-related !
 - Explore my projects!
-
 ## Technologies & Tools
 - GitHub
 - Git
